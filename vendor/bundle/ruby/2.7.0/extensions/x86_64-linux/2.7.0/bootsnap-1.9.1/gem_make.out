@@ -1,0 +1,15 @@
+current directory: /home/gfsilva/code/gfsilva1/rails-stupid-coaching/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.9.1/ext/bootsnap
+/home/gfsilva/.rvm/rubies/ruby-2.7.3/bin/ruby -I /home/gfsilva/.rvm/rubies/ruby-2.7.3/lib/ruby/site_ruby/2.7.0 -r ./siteconf20211030-2495-iy3zh0.rb extconf.rb
+creating Makefile
+
+current directory: /home/gfsilva/code/gfsilva1/rails-stupid-coaching/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.9.1/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /home/gfsilva/code/gfsilva1/rails-stupid-coaching/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.9.1/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/gfsilva/code/gfsilva1/rails-stupid-coaching/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.9.1/ext/bootsnap
+make DESTDIR\= install
+/usr/bin/install -m 0755 bootsnap.so ./.gem.20211030-2495-1m58eeq/bootsnap
